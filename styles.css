@@ -1,0 +1,16 @@
+* {
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: rgb(158, 207, 130);
+    color: indigo;
+}
+
+h1 {
+    text-align: center;
+    color: rgba(10, 5, 4, 0.904);
+}
+
+
+img {
+    margin: auto;
+    display: block;
+}
